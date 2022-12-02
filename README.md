@@ -1,4 +1,4 @@
-# Movie-Data-Cleaning
+# Cleaning a Movies Dataset Using Microsoft Excel
 
 Note: The original dataset used for this project can be found here:  
 &emsp; https://www.kaggle.com/datasets/bharatnatrayn/movies-dataset-for-feature-extracion-prediction
