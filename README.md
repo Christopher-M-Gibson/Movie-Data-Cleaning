@@ -1,5 +1,8 @@
 # Movie-Data-Cleaning
 
+Note: The original dataset used for this project can be found here:  
+&emsp; https://www.kaggle.com/datasets/bharatnatrayn/movies-dataset-for-feature-extracion-prediction
+
 In this project, I cleaned a dataset concerning Movies and TV shows using Microsoft Excel.
 
 In the excel file, the first sheet (Original Data) is the original dataset. The second sheet (Workspace), is where I performed most of the cleaning/dirty work. The third sheet (Cleaned Data) is the cleaned version of the dataset.
