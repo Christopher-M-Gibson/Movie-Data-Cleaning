@@ -18,7 +18,7 @@ What follows is the steps I took to clean the dataset (all performed in the Work
 &emsp; 4) I fixed the formatting of and split the 'GENRE' column into three columns, each listing a genre of the title  
 &emsp; 5) I edited the 'RATINGS' column so that missing values would be replaced by 0.0  
 &emsp; 6) I fixed the formatting of the 'ONE-LINE' column and renamed it to 'SYNOPSIS'  
-&emsp; 7) I split the STARS column into three columns: a 'DIRECTORS', 'ACTORS_WITH_DIRECTOR', and 'ACTORS_WITHOUT_DIRECTOR' column  
+&emsp; 7) I split the STARS column into three columns: 'DIRECTORS', 'ACTORS_WITH_DIRECTOR', and 'ACTORS_WITHOUT_DIRECTOR' columns  
 &emsp; 8) From there, using the 'ACTORS_WITH_DIRECTOR' and 'ACTORS_WITHOUT_DIRECTOR' columns, I created four columns, each listing an actor from that movie/TV show  
 &emsp; 9) I edited the 'VOTES' column so that missing values would be replaced by 0  
 &emsp; 10) I converted the given data in the 'GROSS' column to a number, as well as filled in missing values with 0  
